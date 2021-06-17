@@ -5,7 +5,7 @@ Implemented in a hacky and ugly way
 
 
 # Installation
-As a usual Godot plugin: add clickable-output folder to res://addons then enable the plugin in ProjectSettings
+This is a usual Godot plugin: add `clickable-output` folder to `res://addons` then enable the plugin in `ProjectSettings`
 
 # Known issues and limitations:
 1. The plugin doesn't work correctly if there are long lines in the `Output` text.
